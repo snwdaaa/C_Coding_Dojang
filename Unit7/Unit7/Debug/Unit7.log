@@ -1,3 +1,2 @@
-﻿  1_integer.c
-C:\Users\kkj48\Desktop\Programming\C_Coding_Dojang\Unit7\Unit7\1_integer.c(7,1): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
-  Unit7.vcxproj -> C:\Users\kkj48\Desktop\Programming\C_Coding_Dojang\Unit7\Debug\Unit7.exe
+﻿  7_integer_stdint.c
+  Unit7.vcxproj -> C:\Users\Lee Seung Woo\Desktop\Github Repository\C_Coding_Dojang\Unit7\Debug\Unit7.exe

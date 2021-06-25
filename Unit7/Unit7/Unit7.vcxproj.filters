@@ -18,5 +18,26 @@
     <ClCompile Include="1_integer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2_unsigned_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3_integer_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4_integer_min.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5_integer_max_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6_integer_min_underflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7_integer_stdint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EX1_integer_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
