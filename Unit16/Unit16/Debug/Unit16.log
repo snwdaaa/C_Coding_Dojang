@@ -1,0 +1,3 @@
+﻿  EX2_judge_type_demotion.c
+C:\Users\kkj48\Desktop\Programming\C_Coding_Dojang\Unit16\Unit16\EX2_judge_type_demotion.c(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  Unit16.vcxproj -> C:\Users\kkj48\Desktop\Programming\C_Coding_Dojang\Unit16\Debug\Unit16.exe
