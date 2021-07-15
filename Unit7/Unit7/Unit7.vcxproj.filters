@@ -39,5 +39,26 @@
     <ClCompile Include="EX1_integer_overflow.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="EX2_integer_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EX3_integer_max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EX4_integer_stdint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EX5_judge_integer_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EX6_judge_integer_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EX7_judge_integer_min.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EX8_judge_integer_stdint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
