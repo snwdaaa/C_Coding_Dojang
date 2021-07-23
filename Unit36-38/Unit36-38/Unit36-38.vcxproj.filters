@@ -39,5 +39,26 @@
     <ClCompile Include="judge_transpose_of_matrix.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_scanf_like_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_like_two_dimensional_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_scanf_like_two_dimensional_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_pointer_like_three_dimensional_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_pointer_unit_matrix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_minefield.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
