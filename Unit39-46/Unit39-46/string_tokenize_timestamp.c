@@ -1,0 +1,21 @@
+// 날짜와 시간 값 자르기
+
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+	char s1[30] = "2015-06-10T15:32:19";
+
+	// '-', 'T', ':'를 기준으로 문자열 자르기
+	char* ptr = strtok(s1, "-T:");
+
+	while (ptr != NULL)
+	{
+		printf("%s\n", ptr);
+		ptr = strtok(NULL, "-T:");
+	}
+	
+	return 0;
+}

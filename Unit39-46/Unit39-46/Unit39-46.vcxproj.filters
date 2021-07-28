@@ -150,5 +150,77 @@
     <ClCompile Include="judge_count_space.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="string_tokenize_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_tokenize_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_tokenize_timestamp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_tokenize_store_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_string_tokenize_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_tokenize_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UNSOLVED_judge_count_specified_word.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii_string_to_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_to_long.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_to_long_multiple_integers.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii_string_to_float.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii_string_exponential_notation_to_float.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_to_float_multiple_real_numbers.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="interger_to_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_to_hex_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_to_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_to_exponential_notation_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_ascii_string_to_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_string_to_hex_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_ascii_string_to_float.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_string_to_float_multiple_real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_integers_to_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_string_to_multiple_integers_real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_integer_real_number_to_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
